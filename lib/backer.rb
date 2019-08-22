@@ -1,7 +1,7 @@
 class Backer
 attr_reader :backed_projects, :name
 
-  def initizlize()
+  def initizlize(avi)
     @name=name
     @backed_projects = []
    end
